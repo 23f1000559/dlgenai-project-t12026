@@ -1,0 +1,12 @@
+transformers
+torch
+os
+scikit-learn
+librosa
+numpy
+pandas
+wandb
+glob
+random
+matplotlib
+xgboost
